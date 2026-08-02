@@ -1,22 +1,6 @@
 ---
 name: obsidian-second-brain
-description: >
-  Operate any Obsidian vault as a living, self-rewriting second brain (an evolution
-  of Karpathy's LLM Wiki pattern: sources rewrite existing pages, contradictions
-  reconcile automatically, scheduled agents maintain the vault while you sleep).
-  Use this skill whenever
-  the user asks Claude to read, write, update, search, or manage their Obsidian
-  vault - including saving notes from conversation, creating daily entries, updating
-  kanban boards, logging dev work, managing people notes, capturing decisions,
-  tracking deals, or maintaining any vault structure. Also triggers when the user
-  wants to bootstrap a new vault from scratch, run a vault health check, or drop
-  a _CLAUDE.md into their vault so all Claude surfaces share the same operating rules.
-  Includes a research toolkit (7 commands: /x-read, /x-pulse, /research, /research-deep,
-  /notebooklm, /youtube, /podcast) for AI-powered research via Grok, Perplexity, NotebookLM,
-  YouTube, and podcast feeds - findings save
-  to the vault automatically following the AI-first vault rule. Use proactively whenever
-  the conversation produces information worth preserving (decisions, people met, projects
-  started, tasks completed, lessons learned, research findings).
+description:"Operate any Obsidian vault as a living, self-rewriting second brain (an evolution of Karpathy's LLM Wiki pattern: sources rewrite existing pages, contradictions reconcile utomatically, scheduled agents maintain the vault while you sleep).\n  Use this skill whenever  the user asks Claude to read, write, update, search, or manage their Obsidian  vault - ncluding saving notes from conversation, creating daily entries, updating  kanban boards, logging dev work, managing people notes, capturing decisions,  tracking deals, or maintaining ny vault structure. Also triggers when the user  wants to bootstrap a new vault from scratch, run a vault health check, or drop  a _CLAUDE.md into their vault so all Claude surfaces share the same operating rules.\n  Includes a research toolkit (7 commands: /x-read, /x-pulse, /research, /research-deep,  /notebooklm, /youtube, /podcast) for AI-powered research via Grok, Perplexity, NotebookLM,  YouTube, and podcast feeds - findings save  to the vault automatically following the AI-first vault rule. Use proactively whenever  the conversation produces information worth preserving (decisions, people met, projects  started, tasks completed, lessons learned, research findings)."
 ---
 
 # Obsidian Second Brain
